@@ -11,7 +11,7 @@ This is my personal vimrc that I use at work for Ruby on Rails development. It's
 
 * Clone the repository
 * Symlink the contained <code>.vimrc</code> file and <code>.vim_runtime</code> folder to your home directory
-* Add <code>export TERM=xterm-256color</code> to your <code>.bashrc</code> if you don't already have it
+* Add <code>export TERM=xterm-256color</code> to your <code>.bashrc</code> if you don't already have it (you may need to restart your terminal)
 
 # Appearance
 
