@@ -7,4 +7,12 @@ This is my personal vimrc that I use at work for Ruby on Rails development. It's
 * Disable the mouse pointer integration
 * Ctrl+Left, Ctrl+Right and :t shortcuts for vim tabs
 
+# Installation
+
+* Clone the repository
+* Symlink the contained .vimrc file and .vim_runtime folder to your home directory
+* Add <code>export TERM=xterm-256color</code> to your .bashrc if you don't already have it
+
+# Appearance
+
 ![What it looks like](http://bucket.crimson.net.nz/vimrc.png)
