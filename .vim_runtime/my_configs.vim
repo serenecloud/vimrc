@@ -40,3 +40,5 @@ nnoremap <C-Left> :tabprevious<CR>
 nnoremap <C-Right> :tabnext<CR>
 map :t :tabe
 
+set foldlevelstart=99
+set foldlevel=99
